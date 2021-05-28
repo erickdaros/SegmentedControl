@@ -7,7 +7,7 @@
 
 [Or try demo App online !](https://appetize.io/app/y4e91xhxgp47956bf73da4z4yg)
 
-[![](https://jitpack.io/v/RobertApikyan/SegmentedControl.svg)](https://jitpack.io/#RobertApikyan/SegmentedControl)
+[![](https://jitpack.io/v/erickdaros/SegmentedControl.svg)](https://jitpack.io/#erickdaros/SegmentedControl)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Segmented control for Android, with a lot of customization properties
@@ -39,7 +39,7 @@ allprojects {
 Add dependency to app module level build.gradle
 ```groovy
 dependencies {
-    implementation 'com.github.RobertApikyan:SegmentedControl:1.2.0'
+    implementation 'com.github.erickdaros:SegmentedControl:1.5.0'
 }
 ```
 ### Maven
@@ -186,7 +186,7 @@ For custom implementation use `SegmentedControlUtils` helper class in order to d
 License
 -------
 
-    Copyright 2017 Robert Apikyan
+    Copyright 2021 Erick Daros
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
